@@ -18,7 +18,7 @@ int reverse(int x)
     while (x != 0)
     {
         digit = x % 10;
-        //for chack the range of range
+        //for chack the range of the limit
         if ((ans > INT_MAX / 10) || (ans < INT_MIN / 10))
         {
             return 0;
