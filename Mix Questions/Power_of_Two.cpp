@@ -1,7 +1,7 @@
 
 //  for approach 1.
 /*
-    lets take n = 5 and perform form '&' opration with n-1 bit.
+    lets take n = 5 and perform form '&' opration with n-1 number.
     8 -> 1000
     7 -> 0111
   --------------
