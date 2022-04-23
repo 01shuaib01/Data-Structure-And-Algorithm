@@ -1,9 +1,8 @@
 
 /*
-
-Approach: Initialize pointer i = 0 and j = N – 1 then swap the elements at these pointers 
-and update i = i + 2 and j = j – 2. 
-Repeat these steps while i < j. 
+Approach: Initialize pointer start = 0 and end = N – 1 then swap the elements at these pointers 
+and update start = start + 2 and end = end – 2. 
+Repeat these steps while start < end. 
 Finally print the updated array.
 Below is the implementation of the above approach:
 
